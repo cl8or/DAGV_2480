@@ -1,0 +1,6 @@
+
+incrementalSave/
+.mayaSwatches/
+tmp/
+
+*.tx
