@@ -4,3 +4,4 @@ incrementalSave/
 tmp/
 
 *.tx
+workspace.mel
