@@ -5,3 +5,5 @@ tmp/
 
 *.tx
 workspace.mel
+
+resources/apartment/images/
